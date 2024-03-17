@@ -22,7 +22,9 @@ if (readme() == true) {
 
 <div>
   <h3>My stats:</h3>
-  ![](https://komarev.com/ghpvc/?username=KomiWolf&color=green)
+    <div align="center">
+      <img src=https://komarev.com/ghpvc/?username=KomiWolf alt=KomiWolf>
+    </div>
 </div>
 
 <h2></h2>
