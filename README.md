@@ -23,7 +23,11 @@ if (readme() == true) {
 <div>
   <h3>My stats:</h3>
     <div align="center">
-      <img src=https://komarev.com/ghpvc/?username=KomiWolf alt=KomiWolf>
+      <img src="https://komarev.com/ghpvc/?username=KomiWolf" alt="Profile Views">
+      <a href="https://wakatime.com/@018e4dff-d65f-4721-8048-cfb952fa2e30"><img src="https://wakatime.com/badge/user/018e4dff-d65f-4721-8048-cfb952fa2e30.svg" alt="Total time coded since Mar 17 2024" /></a>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KomiWolf&show_icons=true&theme=radical&include_all_commits=true" alt="Stats">
     </div>
 </div>
 
