@@ -1,16 +1,40 @@
-### Hi there 👋
+```c
+if (readme() == true) {
+    display_readme();
+}
+```
 
-<!--
-**KomiWolf/KomiWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Hi there 👋</h3>
+  <p>I'm Eric XU (KomiWof)! Nice to meet you!</p>
+</div>
 
-Here are some ideas to get you started:
+<h2></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p>I'm a 19 yo french guy who likes to play some video-games.</p>
+  <p>I'm learning development at Epitech Paris and I'm currently a 2nd-year student.</p>
+  <p>I want to become a Video-games/Backend developer.</p>
+  <p></p>
+</div>
+
+<h2></h2>
+
+<div>
+  <h3>My stats:</h3>
+  ![](https://komarev.com/ghpvc/?username=KomiWolf&color=green)
+</div>
+
+<h2></h2>
+
+<div>
+  <h3>You can contact me here :</h3>
+  <p>- Discord : komi_gammamon</p>
+  <p>- Email : ericxu7525@gmail.com</p>
+  <p>- Linkedin : https://www.linkedin.com/in/eric-xu-dev/</p>
+</div>
+<hr>
+
+<div>
+  <p>See ya!</p>
+</div>
