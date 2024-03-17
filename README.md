@@ -31,9 +31,11 @@ if (readme() == true) {
 
 <div>
   <h3>You can contact me here :</h3>
-  <p>- Discord : komi_gammamon</p>
-  <p>- Email : ericxu7525@gmail.com</p>
-  <p>- Linkedin : https://www.linkedin.com/in/eric-xu-dev/</p>
+    <div align="center">
+      <p>- Discord : komi_gammamon</p>
+      <p>- Email : ericxu7525@gmail.com</p>
+      <p>- Linkedin : https://www.linkedin.com/in/eric-xu-dev/</p>
+    </div>
 </div>
 <hr>
 
