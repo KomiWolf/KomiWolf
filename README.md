@@ -9,19 +9,17 @@ if (readme() == true) {
   <p>I'm Eric XU (KomiWof)! Nice to meet you!</p>
 </div>
 
-<h2></h2>
+##
 
-<div>
-  <p>I'm a 19 years old french guy who likes to play video-games.</p>
-  <p>I'm learning development at Epitech Paris and I'm currently a 2nd-year student.</p>
-  <p>I want to become a Video-games/Backend developer.</p>
-  <p></p>
-</div>
+I'm a 19 years old french guy who likes playing video-games.
 
-<h2></h2>
+I'm learning programming at Epitech Paris where I'm a 2nd-year student.
 
-<div>
-  <h3>Languages I've already used:</h3>
+I would like to become a Video-games/Backend developer.
+
+
+##
+### Languages I've already used:
   <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="26px" />
@@ -34,37 +32,22 @@ if (readme() == true) {
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="26px" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26px" />
   </div>
-</div>
 
-<h2></h2>
+##
 
-<div>
-  <h3>My stats:</h3>
-    <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=KomiWolf" alt="Profile Views" />
-      <a href="https://wakatime.com/@018e4dff-d65f-4721-8048-cfb952fa2e30"><img src="https://wakatime.com/badge/user/018e4dff-d65f-4721-8048-cfb952fa2e30.svg" alt="Total time coded since Mar 17 2024" /></a>
-    </div>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KomiWolf&show_icons=true&theme=radical&include_all_commits=true" alt="Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomiWolf&langs_count=8&theme=radical" alt="Top Languages" />
-        &#8287;&#8287;
-        <p align="center">
-    </div>
-</div>
+### My stats:
+![Profile Views](https://komarev.com/ghpvc/?username=KomiWolf)
+[![Total time coded since Mar 17 2024](https://wakatime.com/badge/user/018e4dff-d65f-4721-8048-cfb952fa2e30.svg)](https://wakatime.com/@018e4dff-d65f-4721-8048-cfb952fa2e30)
 
-<h2></h2>
+![KomiWolf stats](https://github-readme-stats.vercel.app/api?username=KomiWolf&show_icons=true&theme=radical&include_all_commits=true)
+![KomiWolf Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomiWolf&langs_count=8&theme=radical)
 
-<div>
-  <h3>You can contact me here :</h3>
-    <div align="center">
-      <p>- Discord : komi_gammamon</p>
-      <p>- Email : ericxu7525@gmail.com</p>
-      <p>- Linkedin : https://www.linkedin.com/in/eric-xu-dev/</p>
-    </div>
-</div>
+##
 
-<h2></h2>
+### You can contact me here :
+- Discord : komi_gammamon
+- Email : ericxu7525@gmail.com
+- Linkedin : [https://www.linkedin.com/in/eric-xu-dev/](https://www.linkedin.com/in/eric-xu-dev/)
 
-<div>
-  <p>See ya!</p>
-</div>
+##
+See ya!
