@@ -12,7 +12,7 @@ if (readme() == true) {
 <h2></h2>
 
 <div>
-  <p>I'm a 19 yo french guy who likes to play some video-games.</p>
+  <p>I'm a 19 years old french guy who likes to play video-games.</p>
   <p>I'm learning development at Epitech Paris and I'm currently a 2nd-year student.</p>
   <p>I want to become a Video-games/Backend developer.</p>
   <p></p>
