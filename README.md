@@ -11,9 +11,9 @@ if (readme() == true) {
 
 ##
 
-I'm a 19 years old french guy who likes playing video-games.
+I'm a 20 years old french guy who likes playing video-games.
 
-I'm learning programming at Epitech Paris where I'm a 2nd-year student.
+I'm learning programming at Epitech Paris where I'm a 3rd-year student.
 
 I would like to become a Video-games/Backend developer.
 
