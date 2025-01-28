@@ -27,7 +27,7 @@ I would like to become a Video-games/Backend developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="26px" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="26px" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26px" />
-    <img src="https://toolynk.com/wp-content/uploads/2017/10/react-paris-et-lyon.png" alt="react" width="36px" height="26px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36px" height="26px" />
     <img src="https://toolynk.com/wp-content/uploads/2017/10/react-native-paris-et-lyon.png" alt="react-native" width="36px" height="26px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="26px" />
