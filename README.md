@@ -6,7 +6,7 @@ if (readme() == true) {
 
 <div align="center">
   <h3>Hi there 👋</h3>
-  <p>I'm Eric XU (KomiWof)! Nice to meet you!</p>
+  <p>I'm Eric XU (KomiWolf)! Nice to meet you!</p>
 </div>
 
 ##
