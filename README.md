@@ -46,7 +46,7 @@ I would like to become a Video-games/Backend developer.
 
 ### You can contact me here :
 - Discord : komi_gammamon
-- Linkedin : [https://www.linkedin.com/in/eric-xu-dev/](https://www.linkedin.com/in/eric-xu-dev/)
+- Linkedin : [My linkedin profile](https://www.linkedin.com/in/eric-xu-dev/)
 
 ##
 See ya!
