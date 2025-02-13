@@ -33,6 +33,12 @@ I would like to become a Video-games/Backend developer.
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="26px" />
   </div>
 
+### Developer tools I've already used
+- Postman
+- DBeaver
+- VSCode
+- Github Desktop
+
 ##
 
 ### My stats:
