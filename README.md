@@ -34,10 +34,10 @@ I would like to become a Video-games/Backend developer.
   </div>
 
 ### Developer tools I've already used
-- Postman
-- DBeaver
-- VSCode
-- Github Desktop
+- Postman (Lightweight, fast, and extensible code editor by Microsoft)
+- DBeaver (Universal database management tool for SQL and NoSQL databases)
+- VSCode (Lightweight, fast, and extensible code editor by Microsoft)
+- Github Desktop (Simplify GitHub repository management with a user-friendly interface)
 
 ##
 
